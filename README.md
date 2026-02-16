@@ -24,3 +24,4 @@
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/szymonsobiech
+- Email: sobiech.2003@wp.pl
