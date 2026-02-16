@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m Szymon 👋
 
-<!--
-**Sobi2003/Sobi2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4th-year **Modelling & Data Science** student  
+📍 Łódź, Poland • Open to **internships / junior roles** (Data / ML / Big Data)  
+🔗 Courses & certificates: LinkedIn (link below)
 
-Here are some ideas to get you started:
+## Featured projects
+- **Big Data — Streaming Moderation System (Kafka + Spark + Docker)**  
+  End-to-end streaming pipeline: producer → Kafka → Spark Structured Streaming → Kafka → FastAPI UI.  
+  Repo: https://github.com/Sobi2003/Big-Data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Monte Carlo — Optical Path Simulator**  
+  Monte Carlo ray tracing for optical path simulation + convergence experiments.  
+  Repo: https://github.com/Ann-7-Ann/EBO_Monte_Carlo_Simulation
+
+- **AI Course Projects (Tasks 4.1–4.4)**  
+  Fuzzy control (Pong), search algorithms (Snake), single neuron GUI, shallow neural network (MNIST).  
+  Repo: https://github.com/Sobi2003/AI-Course-Projects
+
+## Tech stack
+- Python, SQL
+- NumPy, pandas, matplotlib
+- Spark (PySpark), Kafka, Docker
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/szymonsobiech
